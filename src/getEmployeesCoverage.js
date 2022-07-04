@@ -1,7 +1,7 @@
 const data = require('../data/zoo_data');
 
 const display = data.employees.map((object) => {
-  const allDatas = {
+  const date = {
     id: object.id,
     fullName: `${object.firstName} ${object.lastName}`,
     species: object.responsibleFor.map((id) =>
@@ -9,13 +9,13 @@ const display = data.employees.map((object) => {
     locations: object.responsibleFor.map((id) =>
       data.species.find((spec) => spec.id === id).location),
   };
-  return allDatas;
+  return date;
 });
 
-function getEmployeesCoverage(object2) {
-  if (object2 === undefined || object2.length === 0) return display;
-  const validateDatas = display.find((objec) => objec.fullName
-    .includes(Object.values(object2)) || objec.id.includes(Object.values(object2)));
+function getEmployeesCoverage(obj) {
+  if (obj === undefined || obj.length === 0) return display;
+  const validateDatas = display.find((object) => object.fullName
+    .includes(Object.values(obj)) || object.id.includes(Object.values(obj)));
   if (validateDatas === undefined || validateDatas.length === 0) {
     throw new Error('Informações inválidas');
   }
