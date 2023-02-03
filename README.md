@@ -5,10 +5,7 @@ Um projeto que realizei na Trybe, que deveria desenvolver um conjunto de funçõ
 
 <hr>
 Construido Com:<br>
-- HTML5<br>
-- CSS<br>
-- JavaScript<br>
-- DOM<br>
+- Hof's (filter, find, forEach, map, reduce)<br>
 <hr>
 
 Contatos = {
