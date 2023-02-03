@@ -5,6 +5,7 @@ Um projeto que realizei na Trybe, que deveria desenvolver um conjunto de funçõ
 
 <hr>
 Usando:<br>
+<img align="center" alt="LEX-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 - Hof's (filter, find, forEach, map, reduce)<br>
 <hr>
 
