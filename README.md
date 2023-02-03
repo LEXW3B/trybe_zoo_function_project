@@ -10,11 +10,11 @@ Unidade de medidas modernas CSS
 
 SessionStorage
 <hr>
-Construido Com:
-- HTML5
-- CSS
-- JavaScript
-- DOM
+Construido Com:<br>
+- HTML5<br>
+- CSS<br>
+- JavaScript<br>
+- DOM<br>
 <hr>
 
 Contatos = {
