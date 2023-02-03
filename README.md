@@ -8,7 +8,6 @@ Class javaScript
 Salvar objetos e arrays no local storage
 Unidade de medidas modernas CSS
 
-SessionStorage
 <hr>
 Construido Com:<br>
 - HTML5<br>
