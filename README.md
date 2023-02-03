@@ -1,5 +1,6 @@
+<hr>
 Projeto - Zoo Function
-
+<hr>
 Um projeto que realizei na Trybe, que deveria desenvolver um conjunto de funções capazes de recuperar vários tipos de informações acerca do zoológico e de seu funcionamento, utilizando os conceitos de HOF's do javascript.
 
 Aprendizados:
@@ -8,13 +9,13 @@ Salvar objetos e arrays no local storage
 Unidade de medidas modernas CSS
 
 SessionStorage
-
+<hr>
 Construido Com:
 - HTML5
 - CSS
 - JavaScript
 - DOM
-
+<hr>
 
 Contatos = {
     <div>
@@ -26,5 +27,5 @@ Contatos = {
     <div>
       Link: <a href="" target="_blanck">GitHub</a>
     </div>
-    <hr>
+    <br>
 };
