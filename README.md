@@ -28,3 +28,4 @@ Contatos = {
     </div>
     <br>
 };
+<hr>
