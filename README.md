@@ -4,7 +4,7 @@ Projeto - Zoo Function
 Um projeto que realizei na Trybe, que deveria desenvolver um conjunto de funções capazes de recuperar vários tipos de informações acerca do zoológico e de seu funcionamento, utilizando os conceitos de HOF's do javascript.
 
 <hr>
-Construido Com:<br>
+Usando:<br>
 - Hof's (filter, find, forEach, map, reduce)<br>
 <hr>
 
