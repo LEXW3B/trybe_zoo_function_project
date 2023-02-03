@@ -26,4 +26,5 @@ Contatos = {
     <div>
       Link: <a href="" target="_blanck">GitHub</a>
     </div>
+    <hr>
 };
