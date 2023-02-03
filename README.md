@@ -3,11 +3,6 @@ Projeto - Zoo Function
 <hr>
 Um projeto que realizei na Trybe, que deveria desenvolver um conjunto de funções capazes de recuperar vários tipos de informações acerca do zoológico e de seu funcionamento, utilizando os conceitos de HOF's do javascript.
 
-Aprendizados:
-Class javaScript
-Salvar objetos e arrays no local storage
-Unidade de medidas modernas CSS
-
 <hr>
 Construido Com:<br>
 - HTML5<br>
