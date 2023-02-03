@@ -10,13 +10,13 @@ Construido Com:<br>
 
 Contatos = {
     <div>
-      Link: <a href="https://www.linkedin.com/in/alexandre-evangelista-souza-lima/" target="_blanck">Linkedin</a>,
+      Link: "<a href="https://www.linkedin.com/in/alexandre-evangelista-souza-lima/" target="_blanck">Linkedin</a>",
     </div>
     <div>
-      Email: <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blanck">Alexandre</a>,
+      Email: "<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blanck">Alexandre</a>",
     </div>
     <div>
-      Link: <a href="" target="_blanck">GitHub</a>
+      Link: "<a href="" target="_blanck">GitHub</a>"
     </div>
     <br>
 };
